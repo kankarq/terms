@@ -33,7 +33,7 @@ getgenv().Mode = {
     }
 }
 
-getgenv().UTarget = {
+getgenv().Target = {
     Enabled = true,
     Prediction = 0.12243,
     Smoothing = 0.01313,
@@ -47,6 +47,44 @@ getgenv().Resolver = {
         AxisY = 0.90,
     }
 }
-+ more of course but, you get it LOL.
+
+getgenv().Silent = {
+    Enabled = false,
+    Keybind = "C",
+    Prediction = 0.124,
+    Smoothness = 0.046,
+    Custompred = {
+        Enabled = false,
+        ValueX = 0.19,
+        ValueY = 0.45,
+    },
+}
+
+getgenv().AntiCurve = {
+    Enabled = false,
+    DeSyncX = 0.00, -- set your own shit i cba --
+    DesyncY = 0.00
+}
+
+getgenv().Safety = {
+    WallCheck = true,
+    KOcheck = true,
+    CarriedCheck = false,
+}
+
+getgenv().AntiSnap = {
+    Enabled = false,
+}
+
+getgenv().IpAdressLocator = {
+    Enabled = false,
+    2Dboxes = true,
+    3Dboxes = false, -- lowers FPS by about 5-6 --
+    Names = false,
+    Distance = {
+        Studs = true,
+        Meters = false,
+    },
+}
     
   
