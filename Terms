@@ -1,0 +1,52 @@
+-1 TERMS OF SERVICE
+
+LEGITIMACY
+our projects are not our for release yet or are a luarmor project. if you want to find any of our luarmor projects in the future, please use https://luarmor.net/check, and the PID you enter from the discord server.
+
+MEDIA/COMMISSION
+As off now i (kankarq) only handle media requests. please feel free to dm me. the following requirements are:
+YOUTUBE - 500 subscribers + 600+ views on latest
+TIKTOK - 5K Followers + 15K+ views on latest.
+perks are a free whitelist and maybe money/performance.
+
+PRICING
+-1 v0.01 will sell for $8 at the start of its sales, much cheaper than anyother streamable costing $10+
+
+POSSIBLE TABLE
+
+script_key="key";
+getgenv().script_key = script_key;
+
+getgenv().N1 = {
+    Intro = true,
+}
+
+getgenv().WaterMark = {
+    Enabled = false,
+}
+
+getgenv().Mode = {
+    Mode = {
+        Universal = false,
+        DaHood = true,
+        VFgames = false,
+    }
+}
+
+getgenv().UTarget = {
+    Enabled = true,
+    Prediction = 0.12243,
+    Smoothing = 0.01313,
+    EasingStyle = "Elastic",
+}
+
+getgenv().Resolver = {
+    Resolver = {
+        DeSyncBypass = true,
+        AxisX = 0.90,
+        AxisY = 0.90,
+    }
+}
++ more of course but, you get it LOL.
+    
+  
